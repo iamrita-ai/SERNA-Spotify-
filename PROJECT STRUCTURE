@@ -1,0 +1,19 @@
+spotify-clone/
+├── backend/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── config/
+│   ├── controllers/
+│   ├── server.js
+│   └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── context/
+│   │   ├── services/
+│   │   └── App.jsx
+│   ├── package.json
+│   └── index.html
+└── README.md
